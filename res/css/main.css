@@ -30,6 +30,8 @@ html, body {
 
 .med-section {
 	height: 85vh;
+	padding: 0;
+	margin: 0;
 }
 
 .doctor-info {
